@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @hema9696
-- 👀 I’m interested in DataEngineering
-- 🌱 I’m currently learning PYTHON  
-- 💞️ I’m looking to collaborate on DataEngineering 
+- 👀 I’m interested in MachineLearning and GENAI
 - 📫 How to reach me on  hsreddy9696@gmail.com
 
 <!---
